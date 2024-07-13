@@ -6,6 +6,7 @@ using namespace std;
 int main()
 {
     std::cout << "Hello World!\n";
+    cout << 5 + 5 << "kimo";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
